@@ -16,7 +16,7 @@ public class CollectionFramework
 //        int n = 3;
 //        int value = (int) (((Math.pow(2, n)) * n) + 1);
 //
-//        System.out.println(value + "Nitin");
+//        System.out.println(value + "Rajdeep");
     }
     // 1.
     public static void arrayFunc(){
